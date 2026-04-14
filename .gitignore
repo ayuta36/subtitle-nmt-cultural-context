@@ -7,11 +7,11 @@ data/*.parquet
 data/*.pkl
 
 # 学習済みモデル（容量大）
-models/
+models/*
 !models/readme.txt
 
 # 実験結果・出力ファイル
-outputs/
+outputs/*
 !outputs/readme.txt
 
 # Python 自動生成ファイル
